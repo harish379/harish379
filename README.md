@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harish
 - 👀 I’m interested in..
-- 🌱 I’m currently learning pytgon
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
