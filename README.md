@@ -36,6 +36,7 @@
 
 ###
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harish379&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2&custom_title=Most%20Languages%20Used" height="150" alt="languages graph"  />
 </div>
@@ -50,11 +51,15 @@
 
 ###
 
+<h2 align="left">Fuel your hustle with musical muscle!</h2>
+
 <div align="center">
   <a href="https://open.spotify.com/user/313bq3ab23w4mm2lzqnrso3zhw2e">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313bq3ab23w4mm2lzqnrso3zhw2e&count=1" alt="Spotify recently played"  />
   </a>
 </div>
+
+<h2 align="left">OMG!! A tiny bird tapping a computer!</h2>
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
