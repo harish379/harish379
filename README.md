@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harish379&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harish379&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2&custom_title=Most%20Languages%20Used" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -55,6 +55,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313bq3ab23w4mm2lzqnrso3zhw2e&count=1" alt="Spotify recently played"  />
   </a>
 </div>
+
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
 </div>
