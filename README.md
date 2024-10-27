@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Harish S and I'm a Web developer from Chennai, Tamil Nadu.</h3>
+<h3 align="left">My name is Harish and I'm a developer from Chennai, Tamil Nadu.</h3>
 
 ###
 
